@@ -1,0 +1,15 @@
+/workspaces/ModuleFunctionDemo/obj/Debug/net7.0/ModuleFunctionDemo.csproj.AssemblyReference.cache
+/workspaces/ModuleFunctionDemo/obj/Debug/net7.0/ModuleFunctionDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ModuleFunctionDemo/obj/Debug/net7.0/ModuleFunctionDemo.AssemblyInfoInputs.cache
+/workspaces/ModuleFunctionDemo/obj/Debug/net7.0/ModuleFunctionDemo.AssemblyInfo.cs
+/workspaces/ModuleFunctionDemo/obj/Debug/net7.0/ModuleFunctionDemo.csproj.CoreCompileInputs.cache
+/workspaces/ModuleFunctionDemo/bin/Debug/net7.0/ModuleFunctionDemo
+/workspaces/ModuleFunctionDemo/bin/Debug/net7.0/ModuleFunctionDemo.deps.json
+/workspaces/ModuleFunctionDemo/bin/Debug/net7.0/ModuleFunctionDemo.runtimeconfig.json
+/workspaces/ModuleFunctionDemo/bin/Debug/net7.0/ModuleFunctionDemo.dll
+/workspaces/ModuleFunctionDemo/bin/Debug/net7.0/ModuleFunctionDemo.pdb
+/workspaces/ModuleFunctionDemo/obj/Debug/net7.0/ModuleFunctionDemo.dll
+/workspaces/ModuleFunctionDemo/obj/Debug/net7.0/refint/ModuleFunctionDemo.dll
+/workspaces/ModuleFunctionDemo/obj/Debug/net7.0/ModuleFunctionDemo.pdb
+/workspaces/ModuleFunctionDemo/obj/Debug/net7.0/ModuleFunctionDemo.genruntimeconfig.cache
+/workspaces/ModuleFunctionDemo/obj/Debug/net7.0/ref/ModuleFunctionDemo.dll
